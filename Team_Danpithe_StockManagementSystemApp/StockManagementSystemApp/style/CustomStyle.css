@@ -1,0 +1,64 @@
+﻿/*for fixing the bootstrap different size image thumbnail problem*/
+.row.fix {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-family: FontAwesome;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    color: #2c3e50;
+    background: lightgray;
+}
+
+.navbar-inverse {
+    background: #2c3e50;
+}
+
+/*using it for NavBar options Clolor change*/
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+/*for brand and icon*/
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+/*card*/
+.blank-section {
+    margin-bottom: 15px;
+    margin-top: 15PX;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    margin-bottom: 15px;
+}
+.custompadding{
+    padding-bottom:20px;
+}
+.custompaddingTop{
+    padding-top:20px;
+}
+.marginTop{
+    margin-top:10px;
+}
+
+
+

@@ -1,0 +1,15 @@
+﻿.custompadding{
+    padding-bottom:20px;
+}
+
+.custompaddingTop{
+    padding-bottom:10px;
+}
+
+.parentContainer{
+		display:table-cell; vertical-align:middle;
+	}
+	
+.buttonMargin{
+  margin: 20px;
+}
