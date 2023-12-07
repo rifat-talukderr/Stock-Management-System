@@ -1,7 +1,7 @@
 # Stock Management System
 The Stock Management System is a web-based project employing a three-layer architecture. Developed using C# within the ASP.NET framework, the system utilizes a SQL Server Database for efficient data management. Design elements are enhanced with Bootstrap, JavaScript, and jQuery for an improved and responsive user interface.
 
-# Three-Layer Architecture:
+Three-Layer Architecture:
 
 # Presentation Layer (UI): This is where the user interacts with the system. In your case, it involves the web interface developed using ASP.NET, Bootstrap, JavaScript, and jQuery. Bootstrap ensures a responsive design, and JavaScript/jQuery enhance the user experience by providing dynamic and interactive features.
 
